@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.api\\todoapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\todoapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.data\\migrations\\20240718090442_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|solutionrelative:todoapp.data\\migrations\\20240718090442_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,15 +69,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ToDoApp.Api",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\ToDoApp.Api.csproj",
+              "RelativeDocumentMoniker": "ToDoApp.Api\\ToDoApp.Api.csproj",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\ToDoApp.Api.csproj",
+              "RelativeToolTip": "ToDoApp.Api\\ToDoApp.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T09:45:40.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Program.cs",
+              "RelativeToolTip": "ToDoApp.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:38:11.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20240718090442_init.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Migrations\\20240718090442_init.cs",
               "RelativeDocumentMoniker": "ToDoApp.Data\\Migrations\\20240718090442_init.cs",
@@ -82,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "20240718090400_init.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\TNTU-121-Software-Engineering\\Nazar-Babiak-SE211\\ToDoApp\\ToDoApp.Data\\Migrations\\20240718090400_init.cs",
               "RelativeDocumentMoniker": "..\\TNTU-121-Software-Engineering\\Nazar-Babiak-SE211\\ToDoApp\\ToDoApp.Data\\Migrations\\20240718090400_init.cs",
@@ -94,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "20240718085844_init.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\TNTU-121-Software-Engineering\\Nazar-Babiak-SE211\\ToDoApp\\ToDoApp.Data\\Migrations\\20240718085844_init.cs",
               "RelativeDocumentMoniker": "..\\TNTU-121-Software-Engineering\\Nazar-Babiak-SE211\\ToDoApp\\ToDoApp.Data\\Migrations\\20240718085844_init.cs",
@@ -106,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "20240718085521_init.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\TNTU-121-Software-Engineering\\Nazar-Babiak-SE211\\ToDoApp\\ToDoApp.Data\\Migrations\\20240718085521_init.cs",
               "RelativeDocumentMoniker": "..\\TNTU-121-Software-Engineering\\Nazar-Babiak-SE211\\ToDoApp\\ToDoApp.Data\\Migrations\\20240718085521_init.cs",
@@ -118,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "20240718085034_init.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\TNTU-121-Software-Engineering\\Nazar-Babiak-SE211\\ToDoApp\\ToDoApp.Data\\Migrations\\20240718085034_init.cs",
               "RelativeDocumentMoniker": "..\\TNTU-121-Software-Engineering\\Nazar-Babiak-SE211\\ToDoApp\\ToDoApp.Data\\Migrations\\20240718085034_init.cs",
@@ -130,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "20240717195455_init.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\TNTU-121-Software-Engineering\\Nazar-Babiak-SE211\\ToDoApp\\ToDoApp.Data\\Migrations\\20240717195455_init.cs",
               "RelativeDocumentMoniker": "..\\TNTU-121-Software-Engineering\\Nazar-Babiak-SE211\\ToDoApp\\ToDoApp.Data\\Migrations\\20240717195455_init.cs",
@@ -141,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ToDoContext.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Context\\ToDoContext.cs",
               "RelativeDocumentMoniker": "ToDoApp.Data\\Context\\ToDoContext.cs",
@@ -153,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ToDoApp.Data.csproj",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\ToDoApp.Data.csproj",
               "RelativeDocumentMoniker": "ToDoApp.Data\\ToDoApp.Data.csproj",
@@ -161,11 +191,12 @@
               "RelativeToolTip": "ToDoApp.Data\\ToDoApp.Data.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-16T09:08:10.801Z"
+              "WhenOpened": "2024-07-16T09:08:10.801Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\Status.cs",
               "RelativeDocumentMoniker": "ToDoApp.Data\\Models\\Status.cs",
@@ -177,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\Board.cs",
               "RelativeDocumentMoniker": "ToDoApp.Data\\Models\\Board.cs",
@@ -189,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\Task.cs",
               "RelativeDocumentMoniker": "ToDoApp.Data\\Models\\Task.cs",
@@ -201,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\User.cs",
               "RelativeDocumentMoniker": "ToDoApp.Data\\Models\\User.cs",
@@ -213,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Class1.cs",
               "RelativeDocumentMoniker": "ToDoApp.Data\\Class1.cs",
@@ -225,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp\\Program.cs",
               "RelativeDocumentMoniker": "ToDoApp\\Program.cs",
@@ -234,6 +265,10 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T08:21:25.77Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
