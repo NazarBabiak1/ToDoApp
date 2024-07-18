@@ -1,0 +1,15 @@
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\bin\Debug\net8.0\ToDoApp.exe
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\bin\Debug\net8.0\ToDoApp.deps.json
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\bin\Debug\net8.0\ToDoApp.runtimeconfig.json
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\bin\Debug\net8.0\ToDoApp.dll
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\bin\Debug\net8.0\ToDoApp.pdb
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.AssemblyInfo.cs
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.sourcelink.json
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.dll
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\obj\Debug\net8.0\refint\ToDoApp.dll
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.pdb
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.genruntimeconfig.cache
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp\obj\Debug\net8.0\ref\ToDoApp.dll

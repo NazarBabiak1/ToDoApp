@@ -1,0 +1,15 @@
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\bin\Debug\net8.0\ToDoApp.Data.deps.json
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\bin\Debug\net8.0\ToDoApp.Data.runtimeconfig.json
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\bin\Debug\net8.0\ToDoApp.Data.dll
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\bin\Debug\net8.0\ToDoApp.Data.pdb
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\obj\Debug\net8.0\ToDoApp.Data.csproj.AssemblyReference.cache
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\obj\Debug\net8.0\ToDoApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\obj\Debug\net8.0\ToDoApp.Data.AssemblyInfoInputs.cache
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\obj\Debug\net8.0\ToDoApp.Data.AssemblyInfo.cs
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\obj\Debug\net8.0\ToDoApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\obj\Debug\net8.0\ToDoApp.Data.sourcelink.json
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\obj\Debug\net8.0\ToDoApp.Data.dll
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\obj\Debug\net8.0\refint\ToDoApp.Data.dll
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\obj\Debug\net8.0\ToDoApp.Data.pdb
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\obj\Debug\net8.0\ToDoApp.Data.genruntimeconfig.cache
+C:\Users\nazar\source\repos\TNTU-121-Software-Engineering\Nazar-Babiak-SE211\ToDoApp\ToDoApp.Data\obj\Debug\net8.0\ref\ToDoApp.Data.dll
