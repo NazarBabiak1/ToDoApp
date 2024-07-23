@@ -10,10 +10,9 @@ namespace ToDoApp.Data.Context
         public DbSet<Board> Boards { get; set; }
         public DbSet<Status> Statuses { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public ToDoContext(DbContextOptions<ToDoContext> options) : base(options)
         {
-            optionsBuilder.UseMySql("Server=127.0.0.1;Database=ToDoDataBase;User=root;Password=123456n;", new MySqlServerVersion(new Version(8, 0, 21)));
-            base.OnConfiguring(optionsBuilder);
+
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
