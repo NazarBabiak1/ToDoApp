@@ -1,0 +1,16 @@
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Services.deps.json
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Services.dll
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Services.pdb
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Data.dll
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\bin\Debug\net8.0\ToDoApp.Data.pdb
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.csproj.AssemblyReference.cache
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.AssemblyInfoInputs.cache
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.AssemblyInfo.cs
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.sourcelink.json
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp..2D6B7A2D.Up2Date
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.dll
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\refint\ToDoApp.Services.dll
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ToDoApp.Services.pdb
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net8.0\ref\ToDoApp.Services.dll

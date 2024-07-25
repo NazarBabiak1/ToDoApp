@@ -11,7 +11,8 @@
           "Microsoft.EntityFrameworkCore": "8.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
           "Swashbuckle.AspNetCore": "6.4.0",
-          "ToDoApp.Data": "1.0.0"
+          "ToDoApp.Data": "1.0.0",
+          "ToDoApp.Services": "1.0.0"
         },
         "runtime": {
           "ToDoApp.Api.dll": {}
@@ -584,6 +585,14 @@
         "runtime": {
           "ToDoApp.Data.dll": {}
         }
+      },
+      "ToDoApp.Services/1.0.0": {
+        "dependencies": {
+          "ToDoApp.Data": "1.0.0"
+        },
+        "runtime": {
+          "ToDoApp.Services.dll": {}
+        }
       }
     }
   },
@@ -1035,6 +1044,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "ToDoApp.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToDoApp.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

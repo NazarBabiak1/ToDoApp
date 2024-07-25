@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using ToDoApp.Data.Context;
+using ToDoApp.Services.Services;
+using ToDoApp.Services.Interfaces;
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,8 +15,14 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<ToDoContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("ToDoAppDb"));
+    var serverVersion = new MySqlServerVersion(new Version(8, 0, 21));
+    options.UseMySql(builder.Configuration.GetConnectionString("ToDoAppDb"), serverVersion);
 });
+
+builder.Services.AddScoped<IBoardService, BoardService>();
+builder.Services.AddScoped<IStatusService,StatusService>();
+builder.Services.AddScoped<ITaskService,TaskService>();
+builder.Services.AddScoped<IUserService,UserService>();
 
 var app = builder.Build();
 

@@ -73,3 +73,5 @@ C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Api\bin\Debug\net8.0\runtimes\win\li
 C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Api\bin\Debug\net8.0\ToDoApp.Data.dll
 C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Api\bin\Debug\net8.0\ToDoApp.Data.pdb
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Api\bin\Debug\net8.0\ToDoApp.Services.dll
+C:\Users\nazar\source\repos\ToDoApp\ToDoApp.Api\bin\Debug\net8.0\ToDoApp.Services.pdb
