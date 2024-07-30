@@ -10,5 +10,5 @@ namespace ToDoApp.Services.Dtos;
 
 public class UpdateStatusDto
 {
-    public Status Status { get; set; }
+    public ActivityStatus Status { get; set; }
 }

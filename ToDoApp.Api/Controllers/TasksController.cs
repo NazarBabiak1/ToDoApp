@@ -3,6 +3,7 @@ using System.Threading.Tasks;
 using ToDoApp.Services.Dtos;
 using ToDoApp.Services.Interfaces;
 using ToDoApp.Data.Enums;
+using System.Collections.Generic;
 
 namespace ToDoApp.Api.Controllers
 {
@@ -41,8 +42,15 @@ namespace ToDoApp.Api.Controllers
         [HttpPut("update-status/{taskId}")]
         public async Task<IActionResult> UpdateStatusAsync(int taskId, [FromBody] UpdateStatusDto updateStatusDto)
         {
-            await _service.UpdateStatusAsync(taskId, updateStatusDto.Status);
-            return Ok();
+            try
+            {
+                await _service.UpdateStatusAsync(taskId, updateStatusDto.Status);
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
         }
 
         [HttpPut("update-assignee/{taskId}")]
