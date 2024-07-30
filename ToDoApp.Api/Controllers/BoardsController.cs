@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using ToDoApp.Data.Context;
 using ToDoApp.Data.Models;
+using ToDoApp.Services.Dtos;
 using ToDoApp.Services.Interfaces;
 using ToDoApp.Services.Services;
 
@@ -24,6 +25,13 @@ namespace ToDoApp.Api.Controllers
         {
             var items = await _service.GetAsync();
             return Ok(items);
+        }
+
+        [HttpPost]
+        public async Task<ActionResult> CreateAsync(CreateBoardDto boardDto)
+        {
+            await _service.CreateBoardAsync(boardDto);
+            return Ok();
         }
     }
 }

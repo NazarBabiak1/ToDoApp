@@ -7,28 +7,8 @@
       "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.api\\controllers\\statusescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\controllers\\statusescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\services\\boardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\services\\boardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\services\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\services\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,64 +19,120 @@
       "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\dtos\\updatestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\dtos\\updatestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\interfaces\\istatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\interfaces\\istatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\dtos\\updateassigneedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\dtos\\updateassigneedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\interfaces\\iboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\interfaces\\iboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\dtos\\updatedescriptionandnamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\dtos\\updatedescriptionandnamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.api\\controllers\\boardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\controllers\\boardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\services\\boardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\services\\boardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\interfaces\\iboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\interfaces\\iboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\dtos\\createboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\dtos\\createboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.data\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|solutionrelative:todoapp.data\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\interfaces\\istatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\interfaces\\istatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.data\\context\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|solutionrelative:todoapp.data\\context\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.api\\todoapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\todoapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.data\\enums\\activitystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|solutionrelative:todoapp.data\\enums\\activitystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\todoapp.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\todoapp.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\ITaskService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToDoApp.Services\\Services\\ITaskService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78934FDC-8861-4F6C-9D48-513C8B798D3A}|ToDoApp\\ToDoApp.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78934FDC-8861-4F6C-9D48-513C8B798D3A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.data\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|solutionrelative:todoapp.data\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.api\\todoapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\todoapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|solutionrelative:todoapp.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.data\\todoapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|solutionrelative:todoapp.data\\todoapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.data\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|solutionrelative:todoapp.data\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|solutionrelative:todoapp.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA20F6DD-6A45-49C5-A339-6EBB52B2098C}|ToDoApp.Data\\ToDoApp.Data.csproj|solutionrelative:todoapp.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\todoapp.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\todoapp.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\services\\currentusersevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\services\\currentusersevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\services\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\services\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E015-267C-476E-8456-77FFDA8707BC}|ToDoApp.Services\\ToDoApp.Services.csproj|solutionrelative:todoapp.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\ITaskService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToDoApp.Services\\Services\\ITaskService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|c:\\users\\nazar\\source\\repos\\todoapp\\todoapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CAD744A-D474-476D-89EE-1774673999CA}|ToDoApp.Api\\ToDoApp.Api.csproj|solutionrelative:todoapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,76 +142,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TaskService.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\TaskService.cs",
-              "RelativeDocumentMoniker": "ToDoApp.Services\\Services\\TaskService.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\TaskService.cs",
-              "RelativeToolTip": "ToDoApp.Services\\Services\\TaskService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "DocumentIndex": 5,
+              "Title": "UpdateAssigneeDto.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Dtos\\UpdateAssigneeDto.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Services\\Dtos\\UpdateAssigneeDto.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Dtos\\UpdateAssigneeDto.cs",
+              "RelativeToolTip": "ToDoApp.Services\\Dtos\\UpdateAssigneeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T03:45:00.054Z",
+              "WhenOpened": "2024-07-30T09:31:44.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Dtos\\UpdateStatusDto.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Services\\Dtos\\UpdateStatusDto.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Dtos\\UpdateStatusDto.cs",
+              "RelativeToolTip": "ToDoApp.Services\\Dtos\\UpdateStatusDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:30:29.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Api\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "ToDoApp.Api\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCIAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:29:04.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "StatusesController.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\StatusesController.cs",
-              "RelativeDocumentMoniker": "ToDoApp.Api\\Controllers\\StatusesController.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\StatusesController.cs",
-              "RelativeToolTip": "ToDoApp.Api\\Controllers\\StatusesController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBcAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T04:54:16.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "ToDoApp.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\appsettings.json",
-              "RelativeToolTip": "ToDoApp.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-20T20:32:12.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Program.cs",
-              "RelativeDocumentMoniker": "ToDoApp.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Program.cs",
-              "RelativeToolTip": "ToDoApp.Api\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T09:38:11.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "ITaskService.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Interfaces\\ITaskService.cs",
               "RelativeDocumentMoniker": "ToDoApp.Services\\Interfaces\\ITaskService.cs",
               "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Interfaces\\ITaskService.cs",
               "RelativeToolTip": "ToDoApp.Services\\Interfaces\\ITaskService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T03:59:42.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Services\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\TaskService.cs",
+              "RelativeToolTip": "ToDoApp.Services\\Services\\TaskService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:45:00.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatusesController.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\StatusesController.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Api\\Controllers\\StatusesController.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\StatusesController.cs",
+              "RelativeToolTip": "ToDoApp.Api\\Controllers\\StatusesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:54:16.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateDescriptionAndNameDto.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Dtos\\UpdateDescriptionAndNameDto.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Services\\Dtos\\UpdateDescriptionAndNameDto.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Dtos\\UpdateDescriptionAndNameDto.cs",
+              "RelativeToolTip": "ToDoApp.Services\\Dtos\\UpdateDescriptionAndNameDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:29:53.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BoardService.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\BoardService.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Services\\Services\\BoardService.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\BoardService.cs",
+              "RelativeToolTip": "ToDoApp.Services\\Services\\BoardService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:44:59.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBoardService.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Interfaces\\IBoardService.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Services\\Interfaces\\IBoardService.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Interfaces\\IBoardService.cs",
+              "RelativeToolTip": "ToDoApp.Services\\Interfaces\\IBoardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:59:14.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "CreateBoardDto.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Dtos\\CreateBoardDto.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Services\\Dtos\\CreateBoardDto.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Dtos\\CreateBoardDto.cs",
+              "RelativeToolTip": "ToDoApp.Services\\Dtos\\CreateBoardDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:36:42.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BoardsController.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\BoardsController.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Api\\Controllers\\BoardsController.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\BoardsController.cs",
+              "RelativeToolTip": "ToDoApp.Api\\Controllers\\BoardsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:50:51.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Dtos\\CreateTaskDto.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Services\\Dtos\\CreateTaskDto.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Dtos\\CreateTaskDto.cs",
+              "RelativeToolTip": "ToDoApp.Services\\Dtos\\CreateTaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:42:51.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IStatusService.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Interfaces\\IStatusService.cs",
               "RelativeDocumentMoniker": "ToDoApp.Services\\Interfaces\\IStatusService.cs",
@@ -188,121 +315,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IBoardService.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Interfaces\\IBoardService.cs",
-              "RelativeDocumentMoniker": "ToDoApp.Services\\Interfaces\\IBoardService.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Interfaces\\IBoardService.cs",
-              "RelativeToolTip": "ToDoApp.Services\\Interfaces\\IBoardService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T03:59:14.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TasksController.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\TasksController.cs",
-              "RelativeDocumentMoniker": "ToDoApp.Api\\Controllers\\TasksController.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\TasksController.cs",
-              "RelativeToolTip": "ToDoApp.Api\\Controllers\\TasksController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAMwBkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T19:29:04.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "ToDoApp.Services\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\UserService.cs",
-              "RelativeToolTip": "ToDoApp.Services\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T04:02:04.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StatusService.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\StatusService.cs",
-              "RelativeDocumentMoniker": "ToDoApp.Services\\Services\\StatusService.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\StatusService.cs",
-              "RelativeToolTip": "ToDoApp.Services\\Services\\StatusService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T04:01:30.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BoardService.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\BoardService.cs",
-              "RelativeDocumentMoniker": "ToDoApp.Services\\Services\\BoardService.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\BoardService.cs",
-              "RelativeToolTip": "ToDoApp.Services\\Services\\BoardService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T03:44:59.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "ToDoApp.Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "ToDoApp.Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T03:59:47.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "ToDoApp.Api\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "ToDoApp.Api\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIAwwBgAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T04:57:43.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BoardsController.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\BoardsController.cs",
-              "RelativeDocumentMoniker": "ToDoApp.Api\\Controllers\\BoardsController.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\BoardsController.cs",
-              "RelativeToolTip": "ToDoApp.Api\\Controllers\\BoardsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T04:50:51.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ToDoContext.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Context\\ToDoContext.cs",
               "RelativeDocumentMoniker": "ToDoApp.Data\\Context\\ToDoContext.cs",
               "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Context\\ToDoContext.cs",
               "RelativeToolTip": "ToDoApp.Data\\Context\\ToDoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwEcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T16:55:53.193Z",
               "EditorCaption": ""
@@ -310,6 +329,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "ActivityStatus.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Enums\\ActivityStatus.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Data\\Enums\\ActivityStatus.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Enums\\ActivityStatus.cs",
+              "RelativeToolTip": "ToDoApp.Data\\Enums\\ActivityStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:10:19.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoApp.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\appsettings.json",
+              "RelativeToolTip": "ToDoApp.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T20:32:12.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\Board.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Data\\Models\\Board.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\Board.cs",
+              "RelativeToolTip": "ToDoApp.Data\\Models\\Board.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T04:29:27.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Data\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\Task.cs",
+              "RelativeToolTip": "ToDoApp.Data\\Models\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:27:53.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "ToDoApp.Api.csproj",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\ToDoApp.Api.csproj",
               "RelativeDocumentMoniker": "ToDoApp.Api\\ToDoApp.Api.csproj",
@@ -322,7 +393,99 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Class1.cs",
+              "RelativeToolTip": "ToDoApp.Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:22:31.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ToDoApp.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\ToDoApp.Data.csproj",
+              "RelativeDocumentMoniker": "ToDoApp.Data\\ToDoApp.Data.csproj",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\ToDoApp.Data.csproj",
+              "RelativeToolTip": "ToDoApp.Data\\ToDoApp.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T07:27:59.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\User.cs",
+              "RelativeToolTip": "ToDoApp.Data\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:27:34.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Data\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\Status.cs",
+              "RelativeToolTip": "ToDoApp.Data\\Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:33:26.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Program.cs",
+              "RelativeToolTip": "ToDoApp.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:38:11.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Interfaces\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Services\\Interfaces\\ICurrentUserService.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Interfaces\\ICurrentUserService.cs",
+              "RelativeToolTip": "ToDoApp.Services\\Interfaces\\ICurrentUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:08:38.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CurrentUserSevice.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\CurrentUserSevice.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Services\\Services\\CurrentUserSevice.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\CurrentUserSevice.cs",
+              "RelativeToolTip": "ToDoApp.Services\\Services\\CurrentUserSevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:11:16.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "ToDoApp.Services.csproj",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\ToDoApp.Services.csproj",
               "RelativeDocumentMoniker": "ToDoApp.Services\\ToDoApp.Services.csproj",
@@ -335,7 +498,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "ToDoApp.Services\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:02:04.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StatusService.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\StatusService.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Services\\Services\\StatusService.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\StatusService.cs",
+              "RelativeToolTip": "ToDoApp.Services\\Services\\StatusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:01:30.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "ToDoApp.Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T03:59:47.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ToDoApp.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwBgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:57:43.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "ITaskService.cs",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Services\\Services\\ITaskService.cs",
               "RelativeDocumentMoniker": "ToDoApp.Services\\Services\\ITaskService.cs",
@@ -346,68 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ToDoApp.Data.csproj",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\ToDoApp.Data.csproj",
-              "RelativeDocumentMoniker": "ToDoApp.Data\\ToDoApp.Data.csproj",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\ToDoApp.Data.csproj",
-              "RelativeToolTip": "ToDoApp.Data\\ToDoApp.Data.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-22T07:27:59.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\Task.cs",
-              "RelativeDocumentMoniker": "ToDoApp.Data\\Models\\Task.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\Task.cs",
-              "RelativeToolTip": "ToDoApp.Data\\Models\\Task.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T08:27:53.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ToDoApp.Data\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Models\\User.cs",
-              "RelativeToolTip": "ToDoApp.Data\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T08:27:34.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Class1.cs",
-              "RelativeDocumentMoniker": "ToDoApp.Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Data\\Class1.cs",
-              "RelativeToolTip": "ToDoApp.Data\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T08:22:31.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp\\Program.cs",
-              "RelativeDocumentMoniker": "ToDoApp\\Program.cs",
-              "ToolTip": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp\\Program.cs",
-              "RelativeToolTip": "ToDoApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T08:21:25.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\ToDoApp\\ToDoApp.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ToDoApp.Api\\appsettings.Development.json",

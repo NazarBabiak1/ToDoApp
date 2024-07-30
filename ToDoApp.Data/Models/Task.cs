@@ -9,6 +9,7 @@ namespace ToDoApp.Data.Models
         public string Description { get; set; }
         public int BoardId { get; set; }
         public DateTime CreateAt { get; set; }
+        public DateTime DueDate { get; set; }
         public int CreatedById { get; set; }
         public int StatusId { get; set;}
         public int AssigneeId { get; set; }

@@ -23,6 +23,7 @@ builder.Services.AddScoped<IBoardService, BoardService>();
 builder.Services.AddScoped<IStatusService,StatusService>();
 builder.Services.AddScoped<ITaskService,TaskService>();
 builder.Services.AddScoped<IUserService,UserService>();
+builder.Services.AddScoped<ICurrentUserService, CurrentUserSevice>();
 
 var app = builder.Build();
 
