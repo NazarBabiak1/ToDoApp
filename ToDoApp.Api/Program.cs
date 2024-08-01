@@ -2,7 +2,9 @@ using Microsoft.EntityFrameworkCore;
 using ToDoApp.Data.Context;
 using ToDoApp.Services.Services;
 using ToDoApp.Services.Interfaces;
+using ToDoApp.Middleware; // Додати неймспейс для мідлвари
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
+using ToDoApp.Api.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,9 +22,9 @@ builder.Services.AddDbContext<ToDoContext>(options =>
 });
 
 builder.Services.AddScoped<IBoardService, BoardService>();
-builder.Services.AddScoped<IStatusService,StatusService>();
-builder.Services.AddScoped<ITaskService,TaskService>();
-builder.Services.AddScoped<IUserService,UserService>();
+builder.Services.AddScoped<IStatusService, StatusService>();
+builder.Services.AddScoped<ITaskService, TaskService>();
+builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<ICurrentUserService, CurrentUserSevice>();
 
 var app = builder.Build();
@@ -35,6 +37,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseAuthorization();
 

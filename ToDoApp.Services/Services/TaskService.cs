@@ -7,6 +7,7 @@ using ToDoApp.Data.Context;
 using ToDoApp.Data.Enums;
 using ToDoApp.Data.Models;
 using ToDoApp.Services.Dtos;
+using ToDoApp.Services.Exceptions;
 using ToDoApp.Services.Interfaces;
 using Task = System.Threading.Tasks.Task;
 
@@ -74,14 +75,14 @@ namespace ToDoApp.Services.Services
 
             if (task == null)
             {
-                throw new Exception("Task not found.");
+                throw new TaskNotFoundException(taskId);
             }
 
             var currentStatus = Enum.Parse<ActivityStatus>(task.Status.Name);
 
             if (!IsValidStatusTransition(currentStatus, newStatus))
             {
-                throw new Exception($"Invalid status transition from {currentStatus} to {newStatus}.");
+                throw new InvalidStatusTransitionException(currentStatus, newStatus);
             }
 
             task.Status.Name = newStatus.ToString();
