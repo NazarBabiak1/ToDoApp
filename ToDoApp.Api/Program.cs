@@ -2,15 +2,20 @@ using Microsoft.EntityFrameworkCore;
 using ToDoApp.Data.Context;
 using ToDoApp.Services.Services;
 using ToDoApp.Services.Interfaces;
-using ToDoApp.Api.Middlewares; // Додати неймспейс для мідлвари
+using ToDoApp.Api.Middlewares; 
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
-using ToDoApp.Api.Middlewares;
+using FluentValidation.AspNetCore;
+using ToDoApp.Api.Validators;
+using FluentValidation;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddFluentValidationAutoValidation();
+builder.Services.AddValidatorsFromAssemblyContaining<CreateBoardDtoValidator>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

@@ -12,70 +12,74 @@ namespace ToDoApp.Data.Context
 
         public ToDoContext(DbContextOptions<ToDoContext> options) : base(options)
         {
-
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+
             modelBuilder.Entity<ToDoApp.Data.Models.Task>()
                 .HasKey(t => t.Id);
+
             modelBuilder.Entity<ToDoApp.Data.Models.Task>()
                 .Property(t => t.Title)
                 .IsRequired()
-                .HasMaxLength(255); // Додано обмеження довжини
+                .HasMaxLength(255);
+
             modelBuilder.Entity<ToDoApp.Data.Models.Task>()
                 .Property(t => t.Description)
                 .IsRequired()
-                .HasMaxLength(2000); // Додано обмеження довжини
+                .HasMaxLength(2000);
+
             modelBuilder.Entity<ToDoApp.Data.Models.Task>()
                 .Property(t => t.CreateAt)
-                .HasColumnType("datetime")  // Зміна на підтримуваний тип datetime
+                .HasColumnType("datetime")
                 .HasDefaultValueSql("CURRENT_TIMESTAMP");
 
             modelBuilder.Entity<ToDoApp.Data.Models.Task>()
-                .HasOne<User>()
+                .HasOne(t => t.User) 
                 .WithMany(u => u.Tasks)
                 .HasForeignKey(t => t.CreatedById);
 
             modelBuilder.Entity<ToDoApp.Data.Models.Task>()
-                .HasOne<Board>()
+                .HasOne(t => t.Board) 
                 .WithMany(b => b.Tasks)
                 .HasForeignKey(t => t.BoardId);
 
             modelBuilder.Entity<ToDoApp.Data.Models.Task>()
-                .HasOne<Status>()
+                .HasOne(t => t.Status) 
                 .WithMany(s => s.Tasks)
                 .HasForeignKey(t => t.StatusId);
 
             modelBuilder.Entity<Board>()
                 .HasKey(b => b.Id);
+
             modelBuilder.Entity<Board>()
                 .Property(b => b.Name)
                 .IsRequired()
-                .HasMaxLength(255) // Додано обмеження довжини
-                .HasColumnType("VARCHAR(255)"); // або .HasColumnType("TEXT")
+                .HasMaxLength(255)
+                .HasColumnType("VARCHAR(255)");
+
             modelBuilder.Entity<Board>()
                 .Property(b => b.CreatedAt)
                 .IsRequired()
                 .HasDefaultValueSql("CURRENT_TIMESTAMP")
-                .HasColumnType("datetime");  // Зміна на підтримуваний тип datetime
+                .HasColumnType("datetime");
 
             modelBuilder.Entity<Status>()
                 .HasKey(s => s.Id);
+
             modelBuilder.Entity<Status>()
                 .Property(s => s.Name)
                 .IsRequired()
-                .HasMaxLength(50); // Додано обмеження довжини
+                .HasMaxLength(50);
 
             modelBuilder.Entity<User>()
                 .HasKey(u => u.Id);
+
             modelBuilder.Entity<User>()
                 .Property(u => u.Name)
                 .IsRequired()
-                .HasMaxLength(255); // Додано обмеження довжини
-            modelBuilder.Entity<User>()
-                .Property(u => u.Tasks)
-                .IsRequired(); // Переконатися, що Tasks не є null
+                .HasMaxLength(255);
         }
     }
 }
