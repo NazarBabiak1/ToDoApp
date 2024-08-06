@@ -11,9 +11,9 @@ namespace ToDoApp.Services.Interfaces
     {
         Task<List<Data.Models.Task>> GetAsync();
         Task CreateAsync(CreateTaskDto taskDto);
-        Task UpdateDescriptionOrNameAsync(int taskId, string title, string description);
-        Task UpdateStatusAsync(int taskId, ActivityStatus newStatus);
-        Task UpdateAssigneeAsync(int taskId, int assigneeId);
+        Task UpdateDescriptionOrNameAsync(int taskId, UpdateDescriptionOrNameDto dto);
+        Task UpdateStatusAsync(int taskId, UpdateStatusDto dto);
+        Task UpdateAssigneeAsync(int taskId, UpdateAssigneeDto dto);
         Task DeleteAsync(int taskId);
     }
 }

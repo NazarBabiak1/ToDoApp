@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using ToDoApp.Data.Context;
 using ToDoApp.Services.Services;
 using ToDoApp.Services.Interfaces;
-using ToDoApp.Middleware; // Додати неймспейс для мідлвари
+using ToDoApp.Api.Middlewares; // Додати неймспейс для мідлвари
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 using ToDoApp.Api.Middlewares;
 

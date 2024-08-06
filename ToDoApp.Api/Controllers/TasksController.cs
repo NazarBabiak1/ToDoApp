@@ -35,7 +35,7 @@ namespace ToDoApp.Api.Controllers
         [HttpPut("update-description-or-name/{taskId}")]
         public async Task<IActionResult> UpdateDescriptionOrNameAsync(int taskId, [FromBody] UpdateDescriptionOrNameDto updateDto)
         {
-            await _service.UpdateDescriptionOrNameAsync(taskId, updateDto.Title, updateDto.Description);
+            await _service.UpdateDescriptionOrNameAsync(taskId, updateDto);
             return Ok();
         }
 
@@ -44,7 +44,7 @@ namespace ToDoApp.Api.Controllers
         {
             try
             {
-                await _service.UpdateStatusAsync(taskId, updateStatusDto.Status);
+                await _service.UpdateStatusAsync(taskId, updateStatusDto);
                 return Ok();
             }
             catch (Exception ex)
@@ -56,7 +56,7 @@ namespace ToDoApp.Api.Controllers
         [HttpPut("update-assignee/{taskId}")]
         public async Task<IActionResult> UpdateAssigneeAsync(int taskId, [FromBody] UpdateAssigneeDto updateAssigneeDto)
         {
-            await _service.UpdateAssigneeAsync(taskId, updateAssigneeDto.AssigneeId);
+            await _service.UpdateAssigneeAsync(taskId, updateAssigneeDto);
             return Ok();
         }
 
